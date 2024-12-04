@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE:4/12/2024 
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![Screenshot 2024-12-04 112322](https://github.com/user-attachments/assets/8aa3c890-6b17-4730-a9ea-b44af9972ebf)
+![Screenshot 2024-12-04 112357](https://github.com/user-attachments/assets/c1ce13f2-caf0-4be1-ac8b-453e2e16fc98)
+![Screenshot 2024-12-04 112417](https://github.com/user-attachments/assets/d8363112-b92f-40ba-b4a8-70dd42c7828c)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:S.Lokeshwaran
+### Register Number:24901149
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
